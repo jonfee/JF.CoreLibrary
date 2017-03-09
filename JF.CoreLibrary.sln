@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JF.CoreLibrary", "JF.CoreLibrary\JF.CoreLibrary.csproj", "{DB0F7511-C0C0-4146-B2A4-01864628177A}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB0F7511-C0C0-4146-B2A4-01864628177A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0F7511-C0C0-4146-B2A4-01864628177A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0F7511-C0C0-4146-B2A4-01864628177A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0F7511-C0C0-4146-B2A4-01864628177A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
