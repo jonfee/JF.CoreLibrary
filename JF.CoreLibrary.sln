@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JF.CoreLibrary", "JF.CoreLibrary\JF.CoreLibrary.csproj", "{DB0F7511-C0C0-4146-B2A4-01864628177A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JF.CoreLibrary", "src\JF.CoreLibrary\JF.CoreLibrary.csproj", "{DB0F7511-C0C0-4146-B2A4-01864628177A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
