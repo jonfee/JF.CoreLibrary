@@ -3,7 +3,7 @@
 namespace JF.CoreLibrary.LBS
 {
     /// <summary>
-    /// 表示一个地理坐标
+    /// 表示一个地理位置坐标
     /// </summary>
     [Serializable]
     public class Location
