@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Common\BitVector32.cs" />
     <Compile Include="LBS\Location.cs" />
     <Compile Include="LBS\LocationConverter.cs" />
     <Compile Include="LBS\LocationExtension.cs" />
