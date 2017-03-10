@@ -5,6 +5,5 @@ D:\Work\01-Projects\JF\JF.CoreLibrary\JF.CoreLibrary\obj\Debug\JF.CoreLibrary.dl
 D:\Work\01-Projects\JF\JF.CoreLibrary\JF.CoreLibrary\obj\Debug\JF.CoreLibrary.pdb
 D:\Work\01-Projects\JF\JF.CoreLibrary\src\JF.CoreLibrary\bin\Debug\JF.CoreLibrary.dll
 D:\Work\01-Projects\JF\JF.CoreLibrary\src\JF.CoreLibrary\bin\Debug\JF.CoreLibrary.pdb
-D:\Work\01-Projects\JF\JF.CoreLibrary\src\JF.CoreLibrary\obj\Debug\JF.CoreLibrary.csprojResolveAssemblyReference.cache
 D:\Work\01-Projects\JF\JF.CoreLibrary\src\JF.CoreLibrary\obj\Debug\JF.CoreLibrary.dll
 D:\Work\01-Projects\JF\JF.CoreLibrary\src\JF.CoreLibrary\obj\Debug\JF.CoreLibrary.pdb
